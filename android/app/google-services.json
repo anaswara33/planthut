@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "915427598566",
+    "project_id": "plant-hut",
+    "storage_bucket": "plant-hut.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915427598566:android:1671da65f72e156ea65b27",
+        "android_client_info": {
+          "package_name": "com.example.planthut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915427598566-ci2rke5qb9rn9rnpfrsvps3ec9h5ms92.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.planthut",
+            "certificate_hash": "d70c972e662fd2551868a233358215f8f81abc54"
+          }
+        },
+        {
+          "client_id": "915427598566-egdot0p0msp3vqd7hp4dk0cv6a94202p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk5LsemHOd4F-IcD0qlhAzDif0ffQ9b80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915427598566-egdot0p0msp3vqd7hp4dk0cv6a94202p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
